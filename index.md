@@ -18,8 +18,11 @@ Using time series analysis I explored and derived collective insgights from the 
 <img src="images/thumbnail-2.png?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Exploring Tech Layoff Trends 2020-22](http://example.com/)
+
+Exploring tech layoff trends across multi national companies to derive insights regarding location, industry and qualification
+
+<img src="images/thumbnail-3.png?raw=true"/>
 
 ---
 
