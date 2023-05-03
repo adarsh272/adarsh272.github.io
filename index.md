@@ -4,15 +4,18 @@
 
 ### Machine Learning Projects 
 
-[Project 1 Title](/sample_page)
+[Body Performance Classification](/sample_page)
 
 A Machine Learning application that can predict body type of a person based on features like blood pressure, height, weight, physical ability etc...
 
 <img src="images/thumbnail-1.png?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Website Visitor Forecasting](http://example.com/)
+
+Using time series analysis I explored and derived collective insgights from the data, used statistical tests and modelling techniques for day-wise forecasting of visitors on a website
+
+<img src="images/thumbnail-2.pnh?raw=true"/>
 
 ---
 [Project 3 Title](http://example.com/)
