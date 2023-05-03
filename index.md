@@ -2,10 +2,10 @@
 
 ---
 
-### Category Name 1 
+### Machine Learning Projects 
 
 [Project 1 Title](/sample_page)
-pkpkpkkokpkplp[
+[lslslssl]
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
