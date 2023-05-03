@@ -5,6 +5,9 @@
 ### Machine Learning Projects 
 
 [Project 1 Title](/sample_page)
+
+---
+
 [lslslssl]
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
