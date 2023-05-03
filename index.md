@@ -1,8 +1,8 @@
-## Portfolio
+# Portfolio
 
 ---
 
-### Machine Learning Projects 
+## Machine Learning Projects 
 
 [Body Performance Classification](/sample_page)
 
@@ -26,7 +26,7 @@ Exploring tech layoff trends across multi national companies to derive insights 
 
 ---
 
-### Category Name 2
+## Web Development Projects
 
 - [Netflix Clone using React](https://github.com/adarsh272/Netflix-Clone)
 - [Know Your Country - Info Web App](https://github.com/adarsh272/Know-Your-Country-Country-Manager)
