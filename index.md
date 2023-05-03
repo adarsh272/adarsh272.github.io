@@ -7,6 +7,7 @@
 [Project 1 Title](/sample_page)
 
 A Machine Learning application that can predict body type of a person based on features like blood pressure, height, weight, physical ability etc...
+
 <img src="images/thumbnail-1.png?raw=true"/>
 
 ---
