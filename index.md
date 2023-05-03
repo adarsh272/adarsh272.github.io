@@ -11,7 +11,7 @@ A Machine Learning application that can predict body type of a person based on f
 <img src="images/thumbnail-1.png?raw=true"/>
 
 ---
-[Website Visitor Forecasting]
+[Website Visitor Forecasting](https://github.com/adarsh272)
 
 Using time series analysis I explored and derived collective insgights from the data, used statistical tests and modelling techniques for day-wise forecasting of visitors on a website
 
