@@ -6,8 +6,8 @@
 
 [Project 1 Title](/sample_page)
 
-[lslslssl]
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[A Machine Learning application that can predict body type of a person based on features like blood pressure, height, weight, physical ability etc...]
+<img src="images/thumbnail-1.png?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
