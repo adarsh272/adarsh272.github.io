@@ -25,6 +25,13 @@ Exploring tech layoff trends across multi national companies to derive insights 
 <img src="images/thumbnail-3.png?raw=true"/>
 
 ---
+[Book Recommendation - Collaborative Filtering](https://github.com/adarsh272/Exploring-Layoff-Trends-in-Tech](https://github.com/adarsh272/Book-Recommendation---Collaborative-Filtering)
+
+A system thar recommends books to users based on their previously rated books.
+
+<img src="[images/thumbnail-3.png?raw=true](https://www.google.com/url?sa=i&url=https%3A%2F%2Fdoorcountypulse.com%2Fbook-recommendation-the-giver-series-by-lois-lowry%2F&psig=AOvVaw35iuzd5szMMAZ8pdHFE7Ja&ust=1684699504747000&source=images&cd=vfe&ved=0CA4QjRxqFwoTCIit--3YhP8CFQAAAAAdAAAAABAD)"/>
+
+---
 
 ## Web Development Projects
 
