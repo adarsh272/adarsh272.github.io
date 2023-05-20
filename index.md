@@ -25,7 +25,7 @@ Exploring tech layoff trends across multi national companies to derive insights 
 <img src="images/thumbnail-3.png?raw=true"/>
 
 ---
-[Book Recommendation - Collaborative Filtering](https://github.com/adarsh272/Exploring-Layoff-Trends-in-Tech](https://github.com/adarsh272/Book-Recommendation---Collaborative-Filtering)
+[Book Recommendation - Collaborative Filtering](https://github.com/adarsh272/Book-Recommendation---Collaborative-Filtering)
 
 A system thar recommends books to users based on their previously rated books.
 
