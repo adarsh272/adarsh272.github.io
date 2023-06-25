@@ -18,9 +18,16 @@ Using time series analysis I explored and derived collective insgights from the 
 <img src="images/thumbnail-2.png?raw=true"/>
 
 ---
+[Image Classification - CNN](https://github.com/adarsh272/Image-Classification-with-CNN)
+
+In this deep learning project, I explore the various intricacies of the Tensorflow Framework to create an image classification model, classifying an image of a person as Happy or Sad based on their expressions.
+
+<img src="images/thumbnail-happy-sad.png?raw=true"/>
+
+---
 [Exploring Tech Layoff Trends 2020-22](https://github.com/adarsh272/Exploring-Layoff-Trends-in-Tech)
 
-Exploring tech layoff trends across multi national companies to derive insights regarding location, industry and qualification
+Exploring tech layoff trends across multi-national companies to derive insights regarding location, industry and qualification
 
 <img src="images/thumbnail-3.png?raw=true"/>
 
