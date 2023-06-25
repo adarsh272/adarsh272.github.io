@@ -3,8 +3,11 @@ logo: "/images/adrya.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   With a year of experience in front-end development and a transition into data science and machine learning, I am constantly upskilling and exploring new ways to leverage these cutting-edge technologies.
   <br><br>
-  I thrive in diverse and collaborative environments, where individuals bring unique skills and knowledge to the table. Working with such teams allows me to grow professionally and create innovative solutions.
-  <br><br>
+  <ul>
+    <li>Python</li>
+    <li>Statistics</li>
+    <li>Machine Learning</li>
+  </ul>
   <a href="https://www.linkedin.com/in/adarsh-tiwari-87209a188/">View My LinkedIn Profile</a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
