@@ -2,11 +2,17 @@ title: Adarsh Tiwari # your name (or website title) here
 logo: "/images/adrya.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   With a year of experience in front-end development and a transition into data science and machine learning, I am constantly upskilling and exploring new ways to leverage these cutting-edge technologies.
-  <br><br>
+  <br>
   <ul>
     <li>Python</li>
     <li>Statistics</li>
-    <li>Machine Learning</li>
+    <li>Exploratory Data Analysis</li>
+    <li>Machine Learning Algortihms</li>
+    <li>Time Series Forecasting</li>
+    <li>SQL</li>
+    <li>Pyspark</li>
+    <li>Tensorflow</li>
+    <li>Web Scraping</li>
   </ul>
   <a href="https://www.linkedin.com/in/adarsh-tiwari-87209a188/">View My LinkedIn Profile</a> 
   
