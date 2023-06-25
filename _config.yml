@@ -8,6 +8,7 @@ description: > # your text below (remove <br> elements if you don't need line br
     <li>Statistics</li>
     <li>Exploratory Data Analysis</li>
     <li>Machine Learning Algortihms</li>
+    <li>Deep Learning Algortihms</li>
     <li>Time Series Forecasting</li>
     <li>SQL</li>
     <li>Pyspark</li>
